@@ -1,2 +1,4 @@
 # Hello-World
-Aspiring web-developer who loves music (Zappa), literature, and comedy
+Aspiring web-developer who loves music, literature, and comedy
+
+Jazz isn't dead. It just smells funny.
